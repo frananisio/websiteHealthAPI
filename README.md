@@ -1,10 +1,10 @@
-# Site - HealthAPI
+# 🩺 | Site - HealthAPI
 
 ## Contextualization
 
 The API was created with the aim of promoting health and well-being in a practical and effective way. Inspired by the growing need for balance in an increasingly fast-paced world, this API offers practical tips, relaxation activities and positive messages to make it easier to incorporate healthy habits into your everyday life.
 
-## Technologies Used
+## 👩‍💻 | Technologies Used
 
 This project was developed with the following technologies and versions:
 
@@ -17,7 +17,7 @@ This project was developed with the following technologies and versions:
 - Testing Library User Event: 13.5.0
 - Web Vitals: 2.1.4
 
-## Project Execution
+## 📖 | Project Execution
 
 Follow the steps below to run this project locally:
 
@@ -30,7 +30,7 @@ Follow the steps below to run this project locally:
 
 This project uses the API available at https://github.com/frananisio/APIhealth.
 
-## Project Images
+## 🖼️ | Project Images
 
 <img src="https://i.imgur.com/psPit0p.png" width="200" height="100" alt="API logo image">
 <img src="https://i.imgur.com/3xedyps.png" width="200" height="200" alt="Two women hugging a green heart"> 

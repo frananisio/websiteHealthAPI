@@ -21,6 +21,7 @@ This project was developed with the following technologies and versions:
 
 Follow the steps below to run this project locally:
 
+- Caution: Be sure to <strong>initialize</strong> the Health API first (URL Below).
 1. Clone the repository to your local machine using `git clone [repository URL]`.
 2. Navigate to the project directory using `cd [directory name]`.
 3. Install project dependencies using `npm install`.

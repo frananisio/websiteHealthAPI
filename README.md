@@ -32,4 +32,10 @@ This project uses the API available at https://github.com/frananisio/APIhealth.
 
 ## Project Images
 
-![Imagem da logo da API](https://imgur.com/vSOOgqC)
+<img src="https://i.imgur.com/psPit0p.png" width="200" height="100" alt="API logo image">
+<img src="https://i.imgur.com/3xedyps.png" width="200" height="200" alt="Two women hugging a green heart"> 
+<img src="https://i.imgur.com/jGWng5G.png" width="200" height="200" alt="Photo of the website developer">
+<img src="https://i.imgur.com/aYcuskk.png" width="200" height="150" alt="Background photo">
+<img src="https://i.imgur.com/ji2rCh2.png" width="200" height="150" alt="Two people doing exercise together">
+<img src="https://i.imgur.com/a7nTu5G.png" width="200" height="150" alt="A woman meditating">
+<img src="https://i.imgur.com/2vU2eo3.png" width="200" height="150" alt="A woman dancing in the grass">

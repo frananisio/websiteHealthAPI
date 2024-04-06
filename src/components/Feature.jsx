@@ -10,7 +10,7 @@ function Feature() {
             <div className='a-container'>
                 <FeatureBox image={featureimage} title='Wellness Tips' text='Provides practical tips for improving physical and mental health.'/>
                 <FeatureBox image={featureimage1} title='Relaxation Tips' text='It presents relaxation activities to relieve stress and promote tranquility.'/>
-                <FeatureBox image={featureimage2} title='Positive Messages' text=''/>
+                <FeatureBox image={featureimage2} title='Positive Messages' text='Offers positive messages to inspire and motivate users.'/>
             </div>
         </div>
     )
